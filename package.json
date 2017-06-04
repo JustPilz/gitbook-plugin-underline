@@ -1,0 +1,22 @@
+{
+  "name": "gitbook-plugin-underline",
+  "version": "0.0.1",
+  "description": "Underline your text",
+  "main": "index.js",
+  "engines": {
+    "gitbook": ">=3.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustPilz/gitbook-plugin-underline.git"
+  },
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "author": "JustPilz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustPilz/gitbook-plugin-underline/issues"
+  },
+  "homepage": "https://github.com/JustPilz/gitbook-plugin-underline#readme"
+}
