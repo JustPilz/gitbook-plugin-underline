@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-underline",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Underline your text",
   "main": "index.js",
   "engines": {
